@@ -18,3 +18,5 @@ In this study, face recognition was performed using the face images in the Olive
 ### It shows the average  face from dataset
 ![index2](https://user-images.githubusercontent.com/10881750/57217982-c302b400-7011-11e9-9936-39cdcac76f95.png)
 
+### Note:
+you can find olivetti datset from this link-- https://www.kaggle.com/serkanpeldek/face-recognition-on-olivetti-dataset/data
