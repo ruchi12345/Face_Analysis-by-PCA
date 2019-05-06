@@ -7,4 +7,5 @@ In this study, face recognition was performed using the face images in the Olive
 
 3.Lastly it will display the average image from dataset.
 
-[index0.png](https://postimg.cc/f35dKz5D)
+![Alt text](https://postimg.cc/f35dKz5D)
+
