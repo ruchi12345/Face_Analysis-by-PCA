@@ -1,4 +1,4 @@
-# Face_Recognition
+# Face_Analysis-by-PCA
 In this study, face recognition was performed using the face images in the Olivetti data set. The steps for face recognition are as follows:
 
 1.Check all the people present in the dataset and their image.
